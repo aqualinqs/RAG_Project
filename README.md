@@ -1,1 +1,2 @@
-# RAG_Project
+# RAG Project
+# A CUSTOMER SUPPORT TICKET SYSTEM
